@@ -19,7 +19,7 @@ Requires a VR headset and tracked controllers.*
 ## Cable Detective - AWS re:Invent
 ![cable detective game](https://github.com/delilah/bites/blob/develop/img/cabledetective.jpeg)
 
-[(Click to Play the Game)](https://reinvent.awsevents.com/play/cable-detective/)
+Game is not available online anymore, but you can see a walkthrough thanks to this YouTuber - [(link to video)](https://www.youtube.com/watch?v=cSw3AHT8v-g)
 
 *Help save this year's _AWS re_:_Invent_! Can you solve the mystery of the twisted _cable_ tangler?*
 
