@@ -2,11 +2,13 @@
 
 Some of my favourite projects :sparkles:
 
+## Please visit the [(THIS PAGE INSTEAD)](https://delilah.github.io/projects.html)
 
 
+(The current page is a temporary repository, but I am moving everything and adding sparkles to the above link, so visit that one instead! Thank you for understanding!)
 
 
-
+#
 ## O21 (VR Game)
 ![virtual hands touching crystals](https://github.com/delilah/bites/blob/develop/img/o21.gif)
 
